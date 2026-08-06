@@ -1,0 +1,26 @@
+Canfolds - License
+
+Copyright (c) 2026 konslid. All rights reserved.
+
+Permission is granted to download and use this software free of charge,
+for personal and commercial purposes, on any number of machines.
+
+You may redistribute the unmodified official executable, free of charge,
+provided this license accompanies it.
+
+You may NOT: sell this software, modify or reverse engineer it, or
+distribute modified versions.
+
+BETA SOFTWARE NOTICE: Canfolds is currently in beta. It is designed to
+never modify, move, or delete your files without an explicit action on
+your part, and canvas layouts are backed up automatically. Even so, bugs
+happen in any software that touches your files. Back up anything
+irreplaceable before use, especially early on.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. THE AUTHOR IS NOT LIABLE FOR ANY DAMAGES OR LOSSES, INCLUDING LOSS
+OF FILES OR DATA, ARISING FROM THE USE OF THIS SOFTWARE. USE AT YOUR OWN
+RISK.
+
+Bundled third-party components retain their own licenses, including the
+Exo 2 font (SIL Open Font License 1.1) and Qt/PySide6 (LGPLv3).
