@@ -1,6 +1,6 @@
 # Changelog
 
-## v0.7.20-beta — first public release
+## v0.8.3-beta — first public release
 
 Canfolds has been built and used privately for a while before this first
 public build. Highlights of what's in this release:
@@ -13,9 +13,12 @@ public build. Highlights of what's in this release:
 - PSD/PSB flattened composite previews
 - Built-in 3D preview renderer (FBX/OBJ/STL/GLB/GLTF/PLY), plus
   Blend/Max/ZBrush/Substance viewport previews where available
+- Optional web gallery — mirror a folder to your own FTP/web hosting as a
+  small, password-protected page, browsable from any device
 - Automatic layout backups (20 revisions) and undo for canvas + file
   operations
 - Portable — single exe, nothing to install
-- English and Russian interface (switching requires a restart)
+- 9-language interface (English, Russian, German, Spanish, French,
+  Portuguese, Chinese, Japanese, Korean), switches instantly, no restart
 
 Future releases will list changes relative to this one.

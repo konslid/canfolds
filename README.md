@@ -42,6 +42,10 @@ layout file and it's a plain folder again.
 - **Fast by architecture** — the UI thread never touches the disk. A
   folder with thousands of files, or a dead network share, can't freeze
   the window.
+- **Optional web gallery** — mirror a folder to your own FTP/web hosting
+  as a small, password-protected page; browse your images from any
+  device, anywhere. Needs a web host of your own — `F1` in the app for
+  the full walkthrough.
 - **Portable** — one exe, nothing to install. Carry it on a USB stick.
 
 ## Download
