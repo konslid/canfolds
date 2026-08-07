@@ -4,17 +4,12 @@
 
 Windows · Freeware · Beta
 
-Canfolds is a dual-pane file browser where every folder opens as a freely
-arranged canvas: lay out images, video, sound and 3D models — with scale,
-rotation, groups and comments — while the files stay ordinary files on
-disk. Nothing gets imported or locked inside the app: delete the hidden
-layout file and it's a plain folder again.
-
-> **Beta, free software.** Canfolds is designed to never modify, move, or
-> delete your files without an explicit action on your part, and canvas
-> layouts back themselves up automatically. Even so, back up anything
-> irreplaceable before trying it on real folders — see
-> [LICENSE.txt](LICENSE.txt) for the full notice.
+**Every folder can already be a mood board — Canfolds just makes it
+visible.** It's a dual-pane file browser where each folder opens as a
+freely arranged canvas: images, video, sound and 3D models laid out with
+scale, rotation, groups and comments, while the files stay ordinary files
+on disk. Delete the hidden layout and it's a plain folder again — **like
+nothing ever happened.**
 
 ## Screenshots
 
@@ -28,6 +23,10 @@ layout file and it's a plain folder again.
 <tr>
 <td width="50%"><img src="screenshots/wav-sfx-example.png" alt="Audio samples sorted into comment frames"></td>
 <td width="50%"><img src="screenshots/dual-canvas.png" alt="Two independent panes side by side"></td>
+</tr>
+<tr>
+<td width="50%"><img src="screenshots/agro-mode.png" alt="Agro mode showing every file in a folder, including formats with no preview"></td>
+<td width="50%"><img src="screenshots/web-gallery.png" alt="Web Gallery settings and the resulting published page in a browser"></td>
 </tr>
 </table>
 
