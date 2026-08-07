@@ -18,8 +18,18 @@ layout file and it's a plain folder again.
 
 ## Screenshots
 
-<!-- TODO before publishing: 2-3 screenshots/GIFs on neutral demo data
-     (dual-pane view, a comment-grouped board, Arrange in action) -->
+![Canfolds in action](screenshots/demo.gif)
+
+<table>
+<tr>
+<td width="50%"><img src="screenshots/all-in-one-promo.png" alt="One canvas with 3D, image, PSD, video and audio previews side by side"></td>
+<td width="50%"><img src="screenshots/big-canvas.png" alt="A large canvas with hundreds of files freely arranged"></td>
+</tr>
+<tr>
+<td width="50%"><img src="screenshots/wav-sfx-example.png" alt="Audio samples sorted into comment frames"></td>
+<td width="50%"><img src="screenshots/dual-canvas.png" alt="Two independent panes side by side"></td>
+</tr>
+</table>
 
 ## Highlights
 
