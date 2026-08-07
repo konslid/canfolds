@@ -53,22 +53,23 @@ nothing ever happened.**
   the window.
 - **Optional web gallery** — mirror a folder to your own FTP/web hosting
   as a small, password-protected page; browse your images from any
-  device, anywhere. Needs a web host of your own — `F1` in the app for
-  the full walkthrough.
+  device, anywhere. Needs a web host of your own — see Settings → Web
+  Galleries in the app.
 - **Portable** — one exe, nothing to install. Carry it on a USB stick.
 
 ## Download
 
-Grab the latest `Canfolds.exe` from [Releases](../../releases) and run it
-— nothing to install. Requires Windows 10/11 x64.
+Grab the latest `Canfolds_beta_<version>_windows.zip` from
+[Releases](../../releases), extract it anywhere, and run the `.exe`
+inside — nothing to install. Requires Windows 10/11 x64.
 
 First launch may trigger a Windows SmartScreen prompt (the exe isn't
 code-signed yet) — "More info" → "Run anyway".
 
 ## Quick start
 
-1. Launch `Canfolds.exe` — two panes appear, each with a folder tree, an
-   address bar and a canvas.
+1. Launch the extracted `.exe` — two panes appear, each with a folder
+   tree, an address bar and a canvas.
 2. Click a folder in the tree, or double-click one on the canvas, to open
    it. A folder with no saved layout opens as a neat grid.
 3. Drag images around; pull the bottom-right corner to scale. Select
