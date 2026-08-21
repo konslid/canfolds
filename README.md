@@ -48,6 +48,9 @@ nothing ever happened.**
 - **Your work is sacred** — atomic writes, automatic layout backups (20
   revisions, one click to restore), undo for both canvas edits and file
   operations.
+- **In sync with the rest of your desktop** — save a picture in another
+  app and its card refreshes itself here, thumbnail and caption both,
+  even while Canfolds sits on a second monitor in the background.
 - **Fast by architecture** — the UI thread never touches the disk. A
   folder with thousands of files, or a dead network share, can't freeze
   the window.
