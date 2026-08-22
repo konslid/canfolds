@@ -1,0 +1,6 @@
+# Сайдкары самого Canfolds: раскладка холста внутри папок.
+# Появляются, как только откроешь папку репозитория в программе.
+.canfolds.save
+.canfolds.json
+.pureview.json
+.canfolds.icon.png
