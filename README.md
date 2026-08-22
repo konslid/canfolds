@@ -120,15 +120,30 @@ SmartScreen prompt on first launch: **More info → Run anyway**.
 
 What you can check instead:
 
-- VirusTotal scan of the [release zip](PASTE_LINK) and of the [exe](PASTE_LINK)
+- VirusTotal scan of the
+  [release zip](https://www.virustotal.com/gui/file/c3583eb0fa554b57a0256dc705f665da627d5299763028bf97391eb3523439a3)
+  and of the
+  [exe](https://www.virustotal.com/gui/file/9e03293faee77e2bd9a6bbd20553a80fc0964f8199d68bb0482dd2a44fdece26)
+- Verify what you downloaded is what I built — SHA-256:
+
+  | File | SHA-256 |
+  |---|---|
+  | `Canfolds_beta_0.9.15_windows.zip` | `c3583eb0fa554b57a0256dc705f665da627d5299763028bf97391eb3523439a3` |
+  | `Canfolds_beta_0.9.15.exe` | `9e03293faee77e2bd9a6bbd20553a80fc0964f8199d68bb0482dd2a44fdece26` |
+
+  On Windows: `Get-FileHash -Algorithm SHA256 <file>`
+
 - It's portable: it writes nothing outside the folders you arrange, plus its own
   settings and thumbnail cache (see *What Canfolds writes to disk* below).
   Uninstalling is deleting the folder.
 - No network access at all, except the optional Web Gallery — and that only talks
   to the FTP host you configure yourself.
 
-A couple of engines may flag the exe as suspicious. That's a generic heuristic for
-unsigned, packed executables, not a detection.
+On the 0.9.15 scans, **65 of 66 engines report the exe as clean**, and 62 of 63
+the release archive. In both cases the single flag is the same generic heuristic
+from the same minor engine — the usual tax on shipping an unsigned, packed
+executable, not an actual detection. The links above always show the current
+result, not a screenshot I picked.
 
 ## Quick start
 
